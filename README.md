@@ -1,7 +1,7 @@
 # Datascience_Portfolio
 ### An overview of my data-science projects.
 
-# [Project 1- MLR]https://github.com/Chirag-Naik666/MLR
+# [Project 1- MLR](https://github.com/Chirag-Naik666/MLR)
 ## Multiple linear regression model predicting the life expectancy using life expectancy dataset.
 
 ### About the project-
