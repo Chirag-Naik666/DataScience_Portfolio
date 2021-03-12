@@ -7,7 +7,7 @@
 ### Python Packages used- Pandas, NumPy, Scipy, Scikit-Learn, Statmodels, Seaborn and Matplotlib.
 ### Conclusion- The model predicts the life expectancy with the adjusted r-squared accuracy of 96.1%.
 
-# [Project 2- classification](https://github.com/Chirag-Naik666/classification)
+# [Project 2- Classification](https://github.com/Chirag-Naik666/classification)
 Telco Customer Churn Prediction using various classification algorithms.
 ### About the project-
    In this project I am using various classification algorithms like Naive Bayes, SVM, Linear Discriminant Analysis to predict the customer churn using the features in the dataset.
