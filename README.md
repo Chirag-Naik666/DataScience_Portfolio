@@ -5,7 +5,7 @@
 ### About the project-
    In this project I am using multiple linear regression to predict the life expectancy using the features in the dataset. 
 ### Python Packages used- Pandas, NumPy, Scipy, Scikit-Learn, Statmodels, Seaborn and Matplotlib.
-### conclusion- The model predicts the life expectancy with the adjusted r-squared accuracy of 96.1%.
+### Conclusion- The model predicts the life expectancy with the adjusted r-squared accuracy of 96.1%.
 
 # [Project 2- classification](https://github.com/Chirag-Naik666/classification)
 Telco Customer Churn Prediction using various classification algorithms.
