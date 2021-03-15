@@ -1,4 +1,4 @@
-### Overview of all my data-science projects. Click on the project title to go to the project's github repository
+### Overview of all my data-science projects. Click on the project title to redirect to the project's github repository
 
 # [Project 1- MLR](https://github.com/Chirag-Naik666/MLR)
 ### Multiple linear regression model predicting the life expectancy using the life expectancy dataset.
