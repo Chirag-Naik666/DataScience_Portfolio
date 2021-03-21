@@ -12,4 +12,4 @@ Telco Customer Churn Prediction using various classification algorithms.
 ### About the project-
    In this project I am using various classification algorithms like Naive Bayes, SVM, Linear Discriminant Analysis to predict the customer churn using the features in the dataset.
 ### Python Packages used- Pandas, NumPy, Scipy, Scikit-Learn, Seaborn and Matplotlib.
-![Confusion Matrix](confusion_matrix.jpg)
+![Confusion Matrix](confusion_matrix.JPG)
