@@ -11,7 +11,7 @@
 ### Analysing and Visualizing Data collect from 'https://www.espncricinfo.com/ci/engine/series/1243364.html?view=records'
 ### About the project-
    As a Hardcore cricket fan and a Data enthusiast, I absolutely loved every second i spent on this project. The project involves collection of data from the cricinfo to make a csv file using MySQL and then analyse and visualize it using python3 jupyter notebook. Then further used Tableau public to get better visualization.
-### softwares used- MySQL, python(pandas, NumPy, Matplotlib, Seaborn), Tableau public.
+### Softwares Used- MySQL, python(pandas, NumPy, Matplotlib, Seaborn), Tableau public.
 ### Conclusion- A lot of match related analysis and visualization is done on the data to understand the test series in depth.
 ![Wicket percentage for India](wicketspercent.png)
  
