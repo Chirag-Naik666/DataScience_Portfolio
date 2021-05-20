@@ -1,14 +1,16 @@
-### Overview of all my major data-science projects. Click on the project title to redirect to the project's github repository
+### Overview of all my major data science projects. Click on the project title to redirect to the project's github repository
 
 # [Project 1- Capstone Project- Lending club classification](https://github.com/Chirag-Naik666/Lendingclub_loanprediction)
-
-
-# [Project 2- Life Expectancy MLR](https://github.com/Chirag-Naik666/MLR)
-### Multiple linear regression model predicting the life expectancy using the life expectancy dataset.
+### Binary classification for loan payment status on Lending club dataset from the year 2007-2011.
 ### About the project-
-   In this project I am using multiple linear regression to predict the life expectancy using the features in the dataset. 
-### Python Packages used- Pandas, NumPy, Scipy, Scikit-Learn, Statmodels, Seaborn and Matplotlib.
-### Conclusion- The model predicts the life expectancy with the adjusted r-squared accuracy of 96.1%.
+   
+# [Project 2- Hypothyroidism Classification](https://github.com/Chirag-Naik666/hypothyroidism)
+Telco Customer Churn Prediction using various classification algorithms.
+### About the project-
+   In this project I am using various classification algorithms like Naive Bayes, SVM, Linear Discriminant Analysis to predict the customer churn using the features in the dataset.
+### Python Packages used- Pandas, NumPy, Scipy, Scikit-Learn, Seaborn and Matplotlib.
+![Confusion Matrix](https://github.com/Chirag-Naik666/hypothyroidism/blob/main/knn_matrix.JPG)
+
 
 # [Project 3- EDA-Cricket](https://github.com/Chirag-Naik666/Cricket_EDA)
 ### Analysing and Visualizing Data collect from 'https://www.espncricinfo.com/ci/engine/series/1243364.html?view=records'
@@ -25,3 +27,10 @@ Telco Customer Churn Prediction using various classification algorithms.
    In this project I am using various classification algorithms like Naive Bayes, SVM, Linear Discriminant Analysis to predict the customer churn using the features in the dataset.
 ### Python Packages used- Pandas, NumPy, Scipy, Scikit-Learn, Seaborn and Matplotlib.
 ![Confusion Matrix](confusion_matrix.JPG)
+
+# [Project 5- Life Expectancy MLR](https://github.com/Chirag-Naik666/MLR)
+### Multiple linear regression model predicting the life expectancy using the life expectancy dataset.
+### About the project-
+   In this project I am using multiple linear regression to predict the life expectancy using the features in the dataset. 
+### Python Packages used- Pandas, NumPy, Scipy, Scikit-Learn, Statmodels, Seaborn and Matplotlib.
+### Conclusion- The model predicts the life expectancy with the adjusted r-squared accuracy of 96.1%.
