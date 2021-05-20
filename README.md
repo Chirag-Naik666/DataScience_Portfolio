@@ -1,4 +1,4 @@
-### Overview of all my data-science projects. Click on the project title to redirect to the project's github repository
+### Overview of all my major data-science projects. Click on the project title to redirect to the project's github repository
 
 # [Project 1- Capstone Project- Lending club classification](https://github.com/Chirag-Naik666/Lendingclub_loanprediction)
 
