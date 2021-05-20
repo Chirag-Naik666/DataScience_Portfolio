@@ -1,5 +1,8 @@
 ### Overview of all my data-science projects. Click on the project title to redirect to the project's github repository
 
+# [Project 1- Capstone Project- Lending club classification](https://github.com/Chirag-Naik666/Lendingclub_loanprediction)
+
+
 # [Project 2- Life Expectancy MLR](https://github.com/Chirag-Naik666/MLR)
 ### Multiple linear regression model predicting the life expectancy using the life expectancy dataset.
 ### About the project-
