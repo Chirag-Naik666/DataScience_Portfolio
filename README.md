@@ -1,15 +1,23 @@
 ### Overview of all my major data science projects. Click on the project title to redirect to the project's github repository
 
 # [Project 1- Capstone Project- Lending club classification](https://github.com/Chirag-Naik666/Lendingclub_loanprediction)
-### Binary classification for loan payment status on Lending club dataset from the year 2007-2011.
+Binary classification for loan payment status on Lending club dataset from the year 2007-2011.
 ### About the project-
+   This is my post graduation project (Finance Domain). It involves data cleaning, null value imputation, data visualization and fitting various models to get the best result.
+### Python packages used- Imblearn, Pandas, Numpy, scipy, scikit-learn, seaborn and matplotlib.
+### Final results-
+![Confusion Matrix](LC_cm.JPG)
+
+![ROC-AUC curve](LC_roc_auc.JPG)
+
    
 # [Project 2- Hypothyroidism Classification](https://github.com/Chirag-Naik666/hypothyroidism)
-Telco Customer Churn Prediction using various classification algorithms.
+Medical sector classification project. 
 ### About the project-
-   In this project I am using various classification algorithms like Naive Bayes, SVM, Linear Discriminant Analysis to predict the customer churn using the features in the dataset.
-### Python Packages used- Pandas, NumPy, Scipy, Scikit-Learn, Seaborn and Matplotlib.
-![Confusion Matrix](https://github.com/Chirag-Naik666/hypothyroidism/blob/main/knn_matrix.JPG)
+   In this project I am using various classification algorithms like Logistic regression,K-neighbours,Random forest etc to predict the patient's thyroid condition using the features in the dataset.
+### Python Packages used- Pandas,Imblearn, NumPy, Scipy, Scikit-Learn, Seaborn and Matplotlib.
+### Final results-
+![Confusion Matrix](knn_matrix.JPG)
 
 
 # [Project 3- EDA-Cricket](https://github.com/Chirag-Naik666/Cricket_EDA)
